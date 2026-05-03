@@ -1,7 +1,7 @@
 # Package
 
 version       = "0.2.0"
-author        = "jjv360"
+author        = "bung87"
 description   = "NJSDB - Nim JSON SQLite Database - A simple NoSQL JSON document database"
 license       = "MIT"
 srcDir        = "src"
